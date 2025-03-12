@@ -41,7 +41,7 @@
 <table>  
 <tr>  
 <td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/1875/1875683.png" width="48" height="48" alt="Manual Testing" /> <br>Manual Testing </td>  
-<td align="center" width="96"> <img src="https://subiz.com.vn/blog/wp-content/uploads/2024/…agile-project-management-la-gi-e1712217007753.png" width="48" height="48" alt="Agile Scrum" /> <br>Agile Scrum </td> 
+<td align="center" width="96"> <img src="	https://i.pinimg.com/280x280_RS/2e/5d/ac/2e5dacab5be4121b4cea03437268d610.jpg" width="48" height="48" alt="Agile Scrum" /> <br>Agile Scrum </td> 
 <td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td>  
 <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="48" height="48" alt="Jira" /> <br>Jira </td>  
 <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" /> <br>GitHub </td>  
