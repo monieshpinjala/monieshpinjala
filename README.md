@@ -39,19 +39,19 @@
 ### **AI & Machine Learning:**  
 <table>  
 <tr>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/artificial-intelligence-1.svg" width="48" height="48" alt="Deep Learning" /> <br>Deep Learning </td>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" width="48" height="48" alt="Computer Vision" /> <br>Computer Vision </td>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="48" height="48" alt="Transformers" /> <br>Transformers (ViT, GPT) </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg" width="48" height="48" alt="Deep Learning" /> <br>Deep Learning </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/OpenCV_Logo_with_text_svg_version.svg" width="48" height="48" alt="Computer Vision" /> <br>Computer Vision </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/PyTorch_logo_icon.svg/512px-PyTorch_logo_icon.svg.png" width="48" height="48" alt="Transformers" /> <br>Transformers (ViT, GPT) </td>  
 </tr>  
 </table>  
 
 ### **Testing & Tools:**  
 <table>  
 <tr>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/test-automation.svg" width="48" height="48" alt="Manual Testing" /> <br>Manual Testing </td>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/agile-1.svg" width="48" height="48" alt="Agile Scrum" /> <br>Agile Scrum </td>  
+<td align="center" width="96"> <img src="https://cdn-icons-png.flaticon.com/512/1875/1875683.png" width="48" height="48" alt="Manual Testing" /> <br>Manual Testing </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Agile_Project_Management.svg" width="48" height="48" alt="Agile Scrum" /> <br>Agile Scrum </td>  
 <td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td>  
-<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="48" height="48" alt="Jira" /> <br>Jira </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/en/8/8a/Jira_Logo.svg" width="48" height="48" alt="Jira" /> <br>Jira </td>  
 <td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" /> <br>GitHub </td>  
 </tr>  
 </table>  
