@@ -7,32 +7,59 @@
 [LinkedIn](your-linkedin-profile) | [GitHub](your-github-profile)  
 
 ---
+
 ## 💻 **Technologies & Tools**  
 
-### **Programming & Development:**  
-- C  
-- Java  
-- Python  
-- SQL  
-- HTML & CSS  
+### **Front-End:**  
+<table>  
+<tr>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" /> <br>HTML5 </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" /> <br>CSS3 </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="JavaScript" /> <br>JavaScript </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React.js" /> <br>React.js </td>  
+</tr>  
+</table>  
+
+### **Back-End:**  
+<table>  
+<tr>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="48" height="48" alt="Node.js" /> <br>Node.js </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="48" height="48" alt="Java" /> <br>Java </td>  
+</tr>  
+</table>  
+
+### **Databases:**  
+<table>  
+<tr>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="48" height="48" alt="MongoDB" /> <br>MongoDB </td>  
+</tr>  
+</table>  
 
 ### **AI & Machine Learning:**  
-- Deep Learning  
-- Computer Vision  
-- Transformers (ViT, GPT)  
+<table>  
+<tr>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/artificial-intelligence-1.svg" width="48" height="48" alt="Deep Learning" /> <br>Deep Learning </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/opencv.svg" width="48" height="48" alt="Computer Vision" /> <br>Computer Vision </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="48" height="48" alt="Transformers" /> <br>Transformers (ViT, GPT) </td>  
+</tr>  
+</table>  
 
 ### **Testing & Tools:**  
-- Manual Testing  
-- Agile Scrum  
-- MySQL  
-- Jira  
-- Git & GitHub  
+<table>  
+<tr>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/test-automation.svg" width="48" height="48" alt="Manual Testing" /> <br>Manual Testing </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/agile-1.svg" width="48" height="48" alt="Agile Scrum" /> <br>Agile Scrum </td>  
+<td align="center" width="96"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" width="48" height="48" alt="MySQL" /> <br>MySQL </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="48" height="48" alt="Jira" /> <br>Jira </td>  
+<td align="center" width="96"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" width="48" height="48" alt="GitHub" /> <br>GitHub </td>  
+</tr>  
+</table>  
 
 ---
 
 ## 📈 **GitHub Stats**  
-[Top Languages Used]  
-[GitHub Contributions Graph]  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
@@ -74,7 +101,7 @@ An AI-based system that **detects and classifies plant diseases** from images, h
 - Worked on **front-end and back-end development** using **HTML, CSS, JavaScript, and MySQL**.  
 - Developed **dynamic websites** with user authentication and database integration.  
 
---
+---
 
 ## ✨ **Fun Facts About Me**  
 
